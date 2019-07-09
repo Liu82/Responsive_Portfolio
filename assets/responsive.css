@@ -127,7 +127,7 @@ media only screen and (max-width: 640px) {
 		height: auto;
 	}
 
-	#about img {
+	#about  {
 		width: 90%;
 		margin: 15px 5% 15px 5%;
 	}
@@ -145,7 +145,7 @@ media only screen and (max-width: 640px) {
     	margin: 25px;
     }
 
-    #portfolio li {
+    #portfolio  {
 		width: 90%;
 		height: 200px;
 		margin: 15px 5% 20px 5%;
